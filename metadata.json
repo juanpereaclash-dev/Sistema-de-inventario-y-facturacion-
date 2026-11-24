@@ -1,0 +1,6 @@
+{
+  "name": "Verge & Canopy — Dream Garden Design Studio",
+  "description": "Design your dream garden with bespoke architectural layouts, interactive planting plans, seasonal bloom previews, and curated botanical plant visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
